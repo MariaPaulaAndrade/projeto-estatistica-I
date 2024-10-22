@@ -17,7 +17,7 @@ _Este projeto consiste no trabalho final de Estatística I da trilha de Data Sci
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/marqsleal/estatistica-um-projeto
+git clone https://github.com/MariaPaulaAndrade/projeto-estatistica-I.git
 ```
 
 ## Dependências 
